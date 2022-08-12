@@ -33,7 +33,7 @@ Cuando entramos a la aplicacion por defecto nos abre el catalogo virtual, para a
 
 Luego aparecera el login.
 -Then the login will appear.
-![image](https://user-images.githubusercontent.com/29841048/184304863-75aca100-6441-409d-9bac-df8f851e681d.png)
+![5 LOGIN Oculto](https://user-images.githubusercontent.com/29841048/184308997-77b3057b-5bf5-4b48-a055-315892099232.png)
 
 Una vez dentro tendremos todos los módulos.
 -Once inside we will have all the modules.
